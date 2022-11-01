@@ -6,8 +6,8 @@ This is an Artificial Intelligence made for the "Go" game, made using Java.
 <br> This AI uses Mini-max with alpha-beta prunings in order to calculate the most efficient moves. The difficulties are dependent on the exploration's depth.
 
 ## Instructions to play the game:
-- javac *.java
-- java Othello
+- ```javac *.java```
+- ```java Othello```
 
 ## Recommendations:
 - Change the difficulty by changing the "searchDepth" variable in Othello.java!
